@@ -12,7 +12,7 @@ Generate the adversarial attacks using the following command:
 
 ```python ./main.py```
 
-Modify the configuration file to change the parameters of the algorithm. The configuration file is located at `./core/helper/conf.ini`.
+Modify the configuration file to change the parameters of the algorithm. The configuration file is located at [./core/helper/conf.ini](core/helper/conf.ini).
 
 
 # Publications
