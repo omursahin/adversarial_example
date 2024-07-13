@@ -19,6 +19,5 @@ Modify the configuration file to change the parameters of the algorithm. The con
 ## Peer-Reviewed Publications
 ### 2024
 
-* O. Sahin, G. Aytekin-Sahin.
-  *Sahin, O. (2024). Generation of black-box adversarial attacks using many independent objective-based algorithm for testing the robustness of deep neural networks. Applied Soft Computing, 111969.
+* Sahin, O. (2024). Generation of black-box adversarial attacks using many independent objective-based algorithm for testing the robustness of deep neural networks. Applied Soft Computing, 111969.
   [[Artifacts](https://doi.org/10.5281/zenodo.11373440)][[Paper](https://www.sciencedirect.com/science/article/pii/S1568494624007439)]
