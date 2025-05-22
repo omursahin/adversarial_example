@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11373441.svg)](https://doi.org/10.5281/zenodo.11373441)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-More information will be added in the upcoming days.
+We will now continue the development of this old project under the new repository: https://github.com/OAResearch/optiattack.
 ## Installation
 Python 3.10 is required to run the code. The required packages can be installed using the following commands:
 
